@@ -1,0 +1,30 @@
+[
+  {
+    "email": "apptest@test.com"
+  },
+  {
+    "email": "claudi@2343.com",
+    "password": "hola",
+    "id": "f1718e43"
+  },
+  {
+    "email": "clau123@clau.com",
+    "password": "clau",
+    "id": "bfd1b615"
+  },
+  {
+    "email": "clau123@test.com",
+    "password": "36d262215ffa32cbbb4f714dd1947d496069d9aee855fec4341e29a2030838a96c52f8c033e7db298e27f5ddd27a24b469289c5b47a4c0d8757c7c54c39a6bb8.ab61e53522a76d58",
+    "id": "18ffb97a"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "bd7c0c36a7465ba0c081b284ec33bdca41f4a2319aa20eef27592092b86ec466adfffdbd4810a244a4b228c55025e337e7acadbfa6f3bbade95ac856b0996010.240ed27f263e14e3",
+    "id": "354223ff"
+  },
+  {
+    "email": "clau123@test.com",
+    "password": "ae5b6354fa1fd0bad900483fe7b628fa211658a4c607e923280ecee038d245cbc9ae06d779cb33c09e95177e1360e0011e5df4544777abf63a6a371fe243a193.9c2ca22bdbfb6d06",
+    "id": "a1776fb6"
+  }
+]

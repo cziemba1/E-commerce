@@ -26,5 +26,20 @@
     "email": "clau123@test.com",
     "password": "ae5b6354fa1fd0bad900483fe7b628fa211658a4c607e923280ecee038d245cbc9ae06d779cb33c09e95177e1360e0011e5df4544777abf63a6a371fe243a193.9c2ca22bdbfb6d06",
     "id": "a1776fb6"
+  },
+  {
+    "email": "hello@hello.com",
+    "password": "3613f476a0c48eeac1383910f7fc044895f67a11ef19ff9deb679e4ba00f4c914b98e901cd52ead34cc802a58ef0fc6add4855ea01572a6d11d73fd68519ebc0.e0a4e359e12eeeb3",
+    "id": "0d876136"
+  },
+  {
+    "email": "hi@hi.com",
+    "password": "92faddb182f331196ec69abd1fbe7cfa9b2c1530239edaea2346e7a28887d0943752b55b8b70709aa2c9051cc961fe694f6f85e2fda7942422b5d9173cba0254.6a4c4a0920052853",
+    "id": "5588c73b"
+  },
+  {
+    "email": "hey@hola.com",
+    "password": "19adc57acbef6fdd4cbd3e7942ae4f436564ec351a81b148d83cbab1a74154735da88e0aca7dded5822298f3a4faf4a88466bbb18eda6c1b7877592862bf1c81.19f01fd9ebd49b2f",
+    "id": "b1bbf45a"
   }
 ]
